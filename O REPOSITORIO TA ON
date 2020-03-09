@@ -1,0 +1,19 @@
+HTML
+
+Para criar uma página na Web é necessária a utilização da Linguagem de Marcação. Existem várias linguagens de marcação, sendo a HTML uma das mais utilizadas. Os documentos produzidos nessa linguagem são interpretados pela maioria dos navegadores. O HTML teve origem na fusão do Hytime com o SGML. Foi criado na década de 1990, por Tim Berners-Lee, o mesmo criador do WWW.
+Para construir um website através da linguagem HTML, você deverá conhecer antes alguns tags HTML (são basicamente rótulos usados para informar ao navegador como deve ser apresentada a página da web), todos tags iniciam e terminam da mesma forma (começam com o sinal de menor “<” e são finalizados com o sinal de maior “>”). A seguir uma lista com os principais tags HTML;
+<html> serve para dar início ao documento;
+</html> finaliza os comandos da página;
+<body> é utilizado para definir o conteúdo principal;
+</body> finaliza o espaço destinado ao conteúdo principal;
+<head> indica o cabeçalho da página;
+</head> finaliza o cabeçalho da página;
+<title> indica o título da página;
+</title> finaliza o título da página;
+<p> novo parágrafo;
+</p> fim do parágrafo;
+<br> pula linha;
+</br> serve para fechar a linha;
+<table> serve para inserir tabela;
+</table> finaliza a tabela.
+
